@@ -5,8 +5,7 @@
 </div> 
 
     <📚 Computer Science Undergraduate @UFSC />
-    <💻 IT Intern @LISHA | Web Development />
-    <🌱 Currently learning: Vue.js, React.js, Haskell and Docker />
+    <🌱 Currently learning: ML, React.js, Java and Docker />
 
 ---
 <div align="center">
