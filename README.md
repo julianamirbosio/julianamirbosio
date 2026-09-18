@@ -5,7 +5,7 @@
 </div> 
 
     <📚 Computer Science Undergraduate @UFSC />
-    <💻 IT Intern @LabSec & @LabPlan | Web Development />
+    <💻 IT Intern @LabSec | Web Development />
 
 ---
 <div align="center">
